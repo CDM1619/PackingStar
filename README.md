@@ -124,4 +124,16 @@ For example, we verify the 15-dimensional configuration:
 ```
 unzip ./12D_14D_15D/15D_diverse_configurations.zip -d ./12D_14D_15D/
 python verify_cosmatrix.py --file-path ./12D_14D_15D/15D_diverse_configurations/15D-2564-cosmatrix_variant_1.npy --threshold 0.5
-``` 
+```
+
+## Citation
+Please cite as following if you think this work is helpful for you:
+
+```
+@article{ma2025finding,
+  title={Finding Kissing Numbers with Game-theoretic Reinforcement Learning},
+  author={Ma, Chengdong and Zhaowei, Th{\u{A}}{\v{S}}o Tao and Li, Pengyu and Liu, Minghao and Chen, Haojun and Mao, Zihao and Cheng, Yuan and Qi, Yuan and Yang, Yaodong},
+  journal={arXiv preprint arXiv:2511.13391},
+  year={2025}
+}
+```
