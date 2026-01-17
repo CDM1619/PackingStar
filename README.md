@@ -49,6 +49,9 @@ Our results fall into three categories: (i) new lower bounds in dimensions 25–
 │   ├── partitioned_D5.npy
 │   ├── partitioned_E7.npy
 │   └── Si_configurations.zip
+├── New generalized kissing configurations
+│   ├── cosine_1:3
+│   ├── cosine_1:4
 ├── README.md
 ├── results.png
 ├── verify_coordinates.py
@@ -59,6 +62,7 @@ Our results fall into three categories: (i) new lower bounds in dimensions 25–
 - `12D_14D_15D/`: Contains diverse configurations in 12, 14, and 15 dimensions.
 - `13D_rational_configurations/`: Contains improved rational configurations in 13 dimensions.
 - `25D-31D/`: Contains new lower bound configurations for dimensions 25 to 31, along with partitioned kissing configurations and $S_i$ configurations.
+- `New generalized kissing configurations/`: Contains new lower bound configurations for generalized kissing configurations.
 
 > In 31 dimensions, PackingStar uncovers a novel assembly pattern by partitioning a 7-dimensional kissing configuration into 42 (optimal) disjoint unit-radius equilateral triangles, resulting in an $84$-fold weighted $S_i$, surpassing the previous $75$-fold weighted $S_i$. Similarly, in 29 dimensions, 
 PackingStar embeds 12 (optimal) disjoint unit-radius equilateral triangles into the 5-dimensional kissing configuration to generate a $26$-fold weighted $S_i$, exceeding the prior $24$-fold weighted $S_i$.
