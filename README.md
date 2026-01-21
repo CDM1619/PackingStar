@@ -1,6 +1,6 @@
 # Official repository of new kissing configurations discovered by ***[PackingStar](https://arxiv.org/abs/2511.13391v1)***
 
-All of these configurations have been independently verified by [Prof. Henry Cohn](https://scholar.google.com/citations?user=8O8MQEUAAAAJ&hl=zh-CN&oi=ao) at MIT and have been accepted into the [kissing number database](https://cohn.mit.edu/kissing-numbers/#7) and [spherical codes database](https://spherical-codes.org/).
+All of these configurations have been independently verified and have been accepted into the [kissing number database](https://cohn.mit.edu/kissing-numbers/#7) and [spherical codes database](https://spherical-codes.org/).
 
 ## Introduction
 
