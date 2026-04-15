@@ -33,7 +33,7 @@ $$\exists x \ \{ \forall _ n \{ x_n^T x_n = 1 \} \land \forall _ {m, n : m \neq 
 ## Results
 Our results fall into three categories: (i) new lower bounds in dimensions 25–31, (ii) improved rational constructions in 13 dimensions, and (iii) diverse famlies of configurations in different dimensions.
 
-![Results](results_all.png)
+![Results](results.png)
 
 ## File Structure
 ```
