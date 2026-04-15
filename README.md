@@ -1,5 +1,6 @@
-# Official repository of new kissing configurations discovered by ***[PackingStar](https://arxiv.org/abs/2511.13391)***
+# Official repository of new kissing configurations discovered by ***PackingStar***
 Paper link: [Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
+
 All of these configurations have been independently verified and have been accepted into the [kissing number database](https://cohn.mit.edu/kissing-numbers/#7) and [spherical codes database](https://spherical-codes.org/).
 
 ## Introduction
