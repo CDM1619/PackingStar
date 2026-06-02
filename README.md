@@ -53,6 +53,8 @@ Our results fall into three categories: (i) new lower bounds in dimensions 25–
 ├── New generalized kissing configurations
 │   ├── cosine_1:3
 │   ├── cosine_1:4
+│   ├── cosine_1:5
+│   ├── other_new_bound
 ├── README.md
 ├── results.png
 ├── verify_coordinates.py
