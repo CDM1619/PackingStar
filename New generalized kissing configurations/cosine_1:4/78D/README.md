@@ -1,4 +1,4 @@
-## Recovering the Spherical Code
+## Recovering the Spherical Code of 78D-142155
 
 Here we provide the coordinate file for the 78-dimensional spherical code with 142,155 points.
 
