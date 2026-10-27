@@ -27,14 +27,39 @@ Please cite as following if you think this work is helpful for you:
 | 26 | 200,918 | **201,134** | +216 | +0.11% | 2026-10-26 |
 | 27 | 204,636 | **209,586** | +4,950 | +2.42% | 2026-10-26 |
 | 28 | 205,232 | **221,664** | **+16,432** | **+8.01%** | 2026-10-26 |
-| 29 | 216,568 | **231,636** | **+15,062** | **+6.95%** | 2026-10-26 |
+| 29 | 216,568 | **231,636** | **+15,068** | **+6.96%** | 2026-10-26 |
 | 30 | 224,280 | **247,952** | **+23,672** | **+10.55%** | 2026-10-26 |
 | 31 | 241,742 | **250,938** | +9,196 | +3.80% | 2026-10-26 |
 
 All reported configurations have been verified using exact arithmetic.
 
-These gains are enabled by **a new, more flexible filling scheme within the Leech-based construction framework**, extending midpoint replacement through the joint optimization of point removals, midpoint insertions, and auxiliary layers. This opens up new possibilities for constructing larger kissing configurations. Our exploration of this construction family appears far from exhausted, and the broader search has not yet converged. We therefore view these bounds as **intermediate milestones in an ongoing investigation**, with substantial potential for further improvements.
+### Discrete rational Gram structure
 
+**All six new configurations have exact rational Gram matrices, with off-diagonal entries drawn from small discrete sets of integer multiples of $1/8$ or $1/16$.** Even at these substantially improved bounds, each configuration uses only **10–18 distinct pairwise inner products**.
+
+Define
+
+$$
+\mathcal{S}_8=\{-1\}\cup\left\{\frac{k}{8}:k=-4,-3,\ldots,4\right\},
+\qquad
+\mathcal{S}_{16}=\{-1\}\cup\left\{\frac{k}{16}:k=-8,-7,\ldots,8\right\}.
+$$
+
+The exact sets of inner products between distinct unit vectors are:
+
+| Dimensions | Inner-product set | Number of values |
+|:---:|---|:---:|
+| 26, 27 | $\mathcal{S}_8$ | **10** |
+| 28, 30, 31 | $\mathcal{S}_{16}$ | **18** |
+| 29 | $\mathcal{S}_{16}\setminus\{-7/16,\,7/16\}$ | **16** |
+
+**This shared rational structure provides further structural support for the broader applicability of PackingStar’s Gram-matrix filling framework.** Substantially larger kissing configurations across six dimensions remain expressible through a compact, exact set of admissible Gram entries, opening further opportunities to explore and refine new construction families through structured matrix filling.
+
+### Construction and ongoing exploration
+
+These gains are enabled by **a new, more flexible filling scheme within the Leech-based construction framework**, extending midpoint replacement through the joint optimization of point removals, midpoint insertions, and auxiliary layers. This opens up new possibilities for constructing larger kissing configurations.
+
+Our exploration of this construction family appears far from exhausted, and the broader search has not yet converged. We therefore view these bounds as **intermediate milestones in an ongoing investigation**, with substantial potential for further improvements.
 
 ## Introduction
 
