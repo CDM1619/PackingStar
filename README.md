@@ -19,7 +19,7 @@ Please cite as following if you think this work is helpful for you:
 
 > **Ongoing updates:** We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
 
-**Our largest advance to date in dimensions 26–31.** We report new verified lower bounds for the kissing number $K(n)$, with improvements exceeding **10,000 points in each of dimensions 28, 29, and 30**, including an increase of **23,672 points (+10.55%) in dimension 30**.
+**Our largest advance to date in dimensions 26–31.** We report new verified lower bounds for the kissing number $K(n)$, with improvements exceeding **10,000 points in each of dimensions 28, 29, and 30**, including an increase of **23,672 points (+10.55%) in dimension 30**. All reported configurations have been verified using exact arithmetic. The previous bounds are from https://github.com/alexlegeartis/KissingNumbers
 
 | Dimension $n$ | Previous lower bound | Our new lower bound | Increase | Relative increase | Verified as of |
 |:---:|---:|---:|---:|---:|:---:|
@@ -30,9 +30,6 @@ Please cite as following if you think this work is helpful for you:
 | 30 | 224,280 | **247,952** | **+23,672** | **+10.55%** | 2026-10-26 |
 | 31 | 241,742 | **250,938** | +9,196 | +3.80% | 2026-10-26 |
 
-The previous bounds are from https://github.com/alexlegeartis/KissingNumbers
-
-All reported configurations have been verified using exact arithmetic.
 
 **These configurations have small cossets consisting of integer multiples of 1/8 or 1/16, making them naturally suited to PackingStar’s Gram-matrix filling framework and highlighting its broader applicability.**
 
