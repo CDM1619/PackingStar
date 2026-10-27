@@ -3,6 +3,27 @@ Paper link: [Finding Kissing Numbers with Game-theoretic Reinforcement Learning]
 
 All of these configurations have been independently verified and have been accepted into the [kissing number database](https://cohn.mit.edu/kissing-numbers/#7) and [spherical codes database](https://spherical-codes.org/).
 
+
+## Update — October 26, 2026
+
+> **Ongoing updates:** We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
+
+**Our largest advance to date in dimensions 26–31.** We report new verified lower bounds for the kissing number $K(n)$, with improvements exceeding **10,000 points in each of dimensions 28, 29, and 30**, including an increase of **23,672 points (+10.55%) in dimension 30**.
+
+| Dimension $n$ | Previous lower bound | Our new lower bound | Increase | Relative increase | Verified as of |
+|:---:|---:|---:|---:|---:|:---:|
+| 26 | 200,918 | **201,134** | +216 | +0.11% | 2026-10-26 |
+| 27 | 204,636 | **209,586** | +4,950 | +2.42% | 2026-10-26 |
+| 28 | 205,232 | **221,664** | **+16,432** | **+8.01%** | 2026-10-26 |
+| 29 | 216,568 | **231,630** | **+15,062** | **+6.95%** | 2026-10-26 |
+| 30 | 224,280 | **247,952** | **+23,672** | **+10.55%** | 2026-10-26 |
+| 31 | 241,742 | **250,938** | +9,196 | +3.80% | 2026-10-26 |
+
+All reported configurations have been verified using exact arithmetic.
+
+These gains are enabled by **a new, more flexible filling scheme within the Leech-based construction framework**, extending midpoint replacement through the joint optimization of point removals, midpoint insertions, and auxiliary layers. This opens up new possibilities for constructing larger kissing configurations. Our exploration of this construction family appears far from exhausted, and the broader search has not yet converged. We therefore view these bounds as **intermediate milestones in an ongoing investigation**, with substantial potential for further improvements.
+
+
 ## Introduction
 
 The **Kissing Number Problem** seeks the maximum number of non-overlapping unit spheres that can simultaneously touch a central unit sphere in $n$-dimensional Euclidean space. 
