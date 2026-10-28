@@ -17,13 +17,13 @@ Please cite as following if you think this work is helpful for you:
 
 ## Update — October 28, 2026
 
-| Dimension $n$ | Our previous lower bound | Our new lower bound | Increase | Verified as of |
-|:---:|---:|---:|---:|---:|
-| 27 | 209,586 | **209,760** | +174 | 2026-10-28 |
-| 28 | 221,664 | **221,864** | +200 | 2026-10-28 |
-| 29 | 231,636 | **231,676** | +40 | 2026-10-28 |
-| 30 | 247,956 | **247,967** | +11 | 2026-10-28 |
-| 31 | 251,002 | **251,169** | +167 | 2026-10-28 |
+| Dimension $n$ | Our previous lower bound | Our new lower bound | Increase |
+|:---:|---:|---:|---:|
+| 27 | 209,586 | **209,760** | +174 |
+| 28 | 221,664 | **221,864** | +200 |
+| 29 | 231,636 | **231,676** | +40 |
+| 30 | 247,956 | **247,967** | +11 |
+| 31 | 251,002 | **251,169** | +167 |
 
 ## Update — October 26, 2026
 
