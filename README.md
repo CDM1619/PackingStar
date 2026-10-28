@@ -15,10 +15,13 @@ Please cite as following if you think this work is helpful for you:
 }
 ```
 
-> **Ongoing updates:** We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
 
 
-## Update — October 28, 2026
+## Ongoing Update
+
+> We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
+
+### Update — October 28, 2026
 
 | Dimension $n$ | Our previous lower bound | Our new lower bound | Increase |
 |:---:|---:|---:|---:|
@@ -28,7 +31,7 @@ Please cite as following if you think this work is helpful for you:
 | 30 | 247,956 | **247,967** | +11 |
 | 31 | 251,002 | **251,169** | +167 |
 
-## Update — October 26, 2026
+### Update — October 26, 2026
 
 **Our largest advance to date in dimensions 26–31.** We report new verified lower bounds for the kissing number $K(n)$, with improvements exceeding **10,000 points in each of dimensions 28, 29, and 30**, including an increase of **23,672 points (+10.55%) in dimension 30**. All reported configurations have been verified using exact arithmetic. The previous bounds are from https://github.com/alexlegeartis/KissingNumbers
 
