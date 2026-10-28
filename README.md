@@ -27,8 +27,8 @@ Please cite as following if you think this work is helpful for you:
 | 27 | 204,636 | **209,586** | +4,950 | +2.42% | 2026-10-26 |
 | 28 | 205,232 | **221,664** | **+16,432** | **+8.01%** | 2026-10-26 |
 | 29 | 216,568 | **231,636** | **+15,068** | **+6.96%** | 2026-10-26 |
-| 30 | 224,280 | **247,952** | **+23,672** | **+10.55%** | 2026-10-26 |
-| 31 | 241,742 | **250,938** | +9,196 | +3.80% | 2026-10-26 |
+| 30 | 224,280 | **247,956** | **+23,676** | **+10.55%** | 2026-10-26 |
+| 31 | 241,742 | **251,002** | +9,260 | +3.83% | 2026-10-26 |
 
 
 **These configurations have small cossets consisting of integer multiples of 1/8 or 1/16, making them naturally suited to PackingStar’s Gram-matrix filling framework and highlighting its broader applicability.**
