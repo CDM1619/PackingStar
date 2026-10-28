@@ -47,7 +47,7 @@ Please cite as following if you think this work is helpful for you:
 
 **These configurations have small cossets consisting of integer multiples of 1/8 or 1/16, making them naturally suited to PackingStar’s Gram-matrix filling framework and highlighting its broader applicability.**
 
-These gains are enabled by **a new, more flexible filling scheme within the Leech-based construction framework**, extending midpoint replacement through the joint optimization of point removals, midpoint insertions, and auxiliary layers. This opens up new possibilities for constructing larger kissing configurations. Our exploration of this construction family appears far from exhausted, and the broader search has not yet converged. We therefore view these bounds as **intermediate milestones in an ongoing investigation**, with substantial potential for further improvements.
+These improvements are enabled by **a new, more flexible filling scheme within the Leech-based construction framework**, extending midpoint replacement through the joint optimization of point removals, midpoint insertions, and auxiliary layers. This opens up new possibilities for constructing larger kissing configurations. Our exploration of this construction family appears far from exhausted, and the broader search has not yet converged. We therefore view these bounds as **intermediate milestones in an ongoing investigation**, with substantial potential for further improvements.
 
 ## Introduction
 
