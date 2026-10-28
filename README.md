@@ -15,20 +15,30 @@ Please cite as following if you think this work is helpful for you:
 }
 ```
 
+## Update — October 28, 2026
+
+| Dimension $n$ | Our previous lower bound | Our new lower bound | Increase | Verified as of |
+|:---:|---:|---:|---:|---:|
+| 27 | 209,586 | **209,760** | +174 | 2026-10-28 |
+| 28 | 221,664 | **221,864** | +200 | 2026-10-28 |
+| 29 | 231,636 | **231,676** | +40 | 2026-10-28 |
+| 30 | 247,956 | **247,967** | +11 | 2026-10-28 |
+| 31 | 251,002 | **251,169** | +167 | 2026-10-28 |
+
 ## Update — October 26, 2026
 
 > **Ongoing updates:** We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
 
 **Our largest advance to date in dimensions 26–31.** We report new verified lower bounds for the kissing number $K(n)$, with improvements exceeding **10,000 points in each of dimensions 28, 29, and 30**, including an increase of **23,672 points (+10.55%) in dimension 30**. All reported configurations have been verified using exact arithmetic. The previous bounds are from https://github.com/alexlegeartis/KissingNumbers
 
-| Dimension $n$ | Previous lower bound | Our new lower bound | Increase | Relative increase | Verified as of |
-|:---:|---:|---:|---:|---:|:---:|
-| 26 | 200,918 | **201,134** | +216 | +0.11% | 2026-10-26 |
-| 27 | 204,636 | **209,586** | +4,950 | +2.42% | 2026-10-26 |
-| 28 | 205,232 | **221,664** | **+16,432** | **+8.01%** | 2026-10-26 |
-| 29 | 216,568 | **231,636** | **+15,068** | **+6.96%** | 2026-10-26 |
-| 30 | 224,280 | **247,956** | **+23,676** | **+10.55%** | 2026-10-26 |
-| 31 | 241,742 | **251,002** | +9,260 | +3.83% | 2026-10-26 |
+| Dimension $n$ | Previous lower bound | Our new lower bound | Increase | Relative increase |
+|:---:|---:|---:|---:|---:|
+| 26 | 200,918 | **201,134** | +216 | +0.11% |
+| 27 | 204,636 | **209,586** | +4,950 | +2.42% |
+| 28 | 205,232 | **221,664** | **+16,432** | **+8.01%** |
+| 29 | 216,568 | **231,636** | **+15,068** | **+6.96%** |
+| 30 | 224,280 | **247,956** | **+23,676** | **+10.55%** |
+| 31 | 241,742 | **251,002** | +9,260 | +3.83% |
 
 
 **These configurations have small cossets consisting of integer multiples of 1/8 or 1/16, making them naturally suited to PackingStar’s Gram-matrix filling framework and highlighting its broader applicability.**
