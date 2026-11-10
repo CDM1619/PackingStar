@@ -21,6 +21,19 @@ Please cite as following if you think this work is helpful for you:
 
 > We are actively continuing the search and refining our constructions. The bounds below are a snapshot of our best verified results **as of the dates listed**, and this table will be updated as further improvements are verified.
 
+### Update — November 11, 2026
+
+| Dimension $n$ | previous lower bound | Our new lower bound | Increase |
+|:---:|---:|---:|---:|
+| 26 | 201,136 | **201,180** | +44 |
+| 27 | 209,825 | **209,862** | +37 |
+| 28 | 221,988 | **222,104** | +116 |
+| 29 | 231,697 | **231,774** | +77 |
+| 30 | 247,972 | **247,992** | +20 |
+| 31 | 251,200 | **251,254** | +54 |
+
+The previous bounds are from https://github.com/alexlegeartis/KissingNumbers
+
 ### Update — October 28, 2026
 
 | Dimension $n$ | Our previous lower bound | Our new lower bound | Increase |
